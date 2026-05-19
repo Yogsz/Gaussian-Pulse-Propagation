@@ -42,10 +42,8 @@ If a Gaussian pulse is input to a linear system with a Gaussian impulse response
 
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/93124dc5-35f0-4ed0-a691-751665193ce6" />
 
-<img width="991" height="1600" alt="WhatsApp Image 2026-05-13 at 9 13 09 AM" src="https://github.com/user-attachments/assets/2059fc85-e532-45c1-b687-5182bd0a96da" />
+<img width="1059" height="1600" alt="WhatsApp Image 2026-05-20 at 12 43 44 AM" src="https://github.com/user-attachments/assets/1d627e50-c5f0-407e-b8de-81ea319e32eb" />
 
-
-<img width="908" height="1600" alt="WhatsApp Image 2026-05-13 at 9 13 09 AM (1)" src="https://github.com/user-attachments/assets/0f5ed6aa-e65a-431f-bb26-e844c43ec303" />
 
 
 
